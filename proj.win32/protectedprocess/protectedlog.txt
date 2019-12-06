@@ -1,0 +1,121 @@
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = [System Process] processID = 0 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = System processID = 4 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = smss.exe processID = 268 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = csrss.exe processID = 364 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = wininit.exe processID = 416 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = csrss.exe processID = 428 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = winlogon.exe processID = 472 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = services.exe processID = 520 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = lsass.exe processID = 528 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = lsm.exe processID = 540 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 640 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = vmacthlp.exe processID = 704 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 748 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 832 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 868 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 892 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 368 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 1028 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = spoolsv.exe processID = 1152 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 1188 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = srvany.exe processID = 1336 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = srvany.exe processID = 1384 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = srvany.exe processID = 1404 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = DeliUSBPnP.exe processID = 1432 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = DeliCheckAlert.exe processID = 1440 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = DeliScanService.exe processID = 1448 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = IpOverUsbSvc.exe processID = 1460 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = Service_KMS.exe processID = 1764 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = sqlwriter.exe processID = 1952 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 2000 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = VGAuthService.exe processID = 1220 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = vmtoolsd.exe processID = 1760 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = ManagementAgentHost.exe processID = 1564 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = TPAutoConnSvc.exe processID = 2108 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = WmiPrvSE.exe processID = 2208 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = msdtc.exe processID = 2428 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = taskhost.exe processID = 2076 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = dwm.exe processID = 2524 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = explorer.exe processID = 2660 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 2760 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = PalmInputGuard.exe processID = 2992 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = vmtoolsd.exe processID = 2072 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = TPAutoConnect.exe processID = 2740 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = conhost.exe processID = 2848 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = PalmInputService.exe processID = 2944 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = SearchIndexer.exe processID = 3236 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 3212 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = svchost.exe processID = 4080 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = taskhost.exe processID = 3700 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = PresentationFontCache.exe processID = 3328 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = devenv.exe processID = 1712 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = MSBuild.exe processID = 1468 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = conhost.exe processID = 572 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = mspdbsrv.exe processID = 2960 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = vcpkgsrv.exe processID = 2780 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = vcpkgsrv.exe processID = 3936 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = SearchProtocolHost.exe processID = 2356 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = SearchFilterHost.exe processID = 3460 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = protectedprocess.exe processID = 2684 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:61: processName = conhost.exe processID = 3632 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = [System Process] 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = System 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = smss.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = csrss.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = wininit.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = csrss.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = winlogon.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = services.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = lsass.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = lsm.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = vmacthlp.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = spoolsv.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = srvany.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = srvany.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = srvany.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = DeliUSBPnP.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = DeliCheckAlert.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = DeliScanService.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = IpOverUsbSvc.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = Service_KMS.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = sqlwriter.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = VGAuthService.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = vmtoolsd.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = ManagementAgentHost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = TPAutoConnSvc.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = WmiPrvSE.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = msdtc.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = taskhost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = dwm.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = explorer.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = PalmInputGuard.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = vmtoolsd.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = TPAutoConnect.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = conhost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = PalmInputService.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = SearchIndexer.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = svchost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = taskhost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = PresentationFontCache.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = devenv.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = MSBuild.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = conhost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = mspdbsrv.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = vcpkgsrv.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = vcpkgsrv.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = SearchProtocolHost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = SearchFilterHost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = protectedprocess.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\utils.cpp:78: processName = conhost.exe 
+2019-12-05 21:34:50 TRACE c:\users\shendong\documents\visual studio 2013\projects\protectedprocess\src\main.cpp:166: ok
