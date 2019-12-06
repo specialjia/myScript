@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{f9b33113-5107-46bb-b2ae-f0fa5748898a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Header files">
+      <UniqueIdentifier>{40fa03b4-8cb2-4c37-b605-86a8a0a08136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Source files">
+      <UniqueIdentifier>{17c54483-4ae0-40b8-b971-ecd1d80e715a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\global.h">
+      <Filter>src\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\keybd.h">
+      <Filter>src\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\stdafx.h">
+      <Filter>src\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\utils.h">
+      <Filter>src\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\myLog.h">
+      <Filter>src\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\log.h">
+      <Filter>src\Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\keybd.cpp">
+      <Filter>src\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\main.cpp">
+      <Filter>src\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\utils.cpp">
+      <Filter>src\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\myLog.cpp">
+      <Filter>src\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\log.cpp">
+      <Filter>src\Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
